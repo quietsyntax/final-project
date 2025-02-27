@@ -6,5 +6,4 @@ This repository contains the final project for [Your Name]. It includes:
 - CONTRIBUTING.md
 - A shell script (simple-interest.sh)
 
-## Installation
-Clone the repository:
+
