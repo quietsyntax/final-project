@@ -7,3 +7,4 @@ This repository contains the final project for [Your Name]. It includes:
 - A shell script (simple-interest.sh)
 
 
+"Bug fix update in README" 
